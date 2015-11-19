@@ -27,6 +27,10 @@
 
 namespace SKleeschulte;
 
+use \InvalidArgumentException;
+use \RuntimeException;
+use \UnexpectedValueException;
+
 /**
  * Base32 encoding and decoding class.
  * 
