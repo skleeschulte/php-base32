@@ -1,7 +1,7 @@
 {
   "name": "skleeschulte/base32",
   "description": "Base32 encoding and decoding class (RFC 4648, RFC 4648 extended hex, Crockford, z-base-32/Zooko).",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "keywords": ["base32", "encode", "decode", "rfc4686", "crockford", "z-base-32", "zooko", "bytestring", "integer", "bcmath"],
   "homepage": "https://github.com/skleeschulte/php-base32",
   "license": "MIT",
