@@ -57,7 +57,7 @@ use \UnexpectedValueException;
  * create a new issue at
  * {@link https://github.com/skleeschulte/php-base32/issues}.
  * 
- * @version 1.0.0
+ * @version 0.0.2
  * @author Stefan Kleeschulte <stefan.kleeschulte@smk.biz>
  * @link https://github.com/skleeschulte/php-base32 Git repository
  */
