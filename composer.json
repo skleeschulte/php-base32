@@ -19,12 +19,6 @@
   "require": {
     "php": ">=5.2.0"
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/skleeschulte/php-base32"
-    }
-  ],
   "autoload": {
     "psr-4": {
       "SKleeschulte\\": "src/"
