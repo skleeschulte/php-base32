@@ -26,7 +26,7 @@ documented using PHPDoc-blocks.
 
 By composer
 ```sh
-composer require skleeschulte/php-base32
+composer require skleeschulte/base32
 ```
 manual:
 ```sh
