@@ -22,5 +22,17 @@ class.
 This class is designed to be fast and memory efficient and is fully
 documented using PHPDoc-blocks.
 
+### Installation
+
+By composer
+```sh
+composer require skleeschulte/base32
+```
+manual:
+```sh
+wget https://codeload.github.com/skleeschulte/php-base32/zip/master
+```
+
+
 If you find any bugs or have suggestions for improvements, you are welcome to
 create a new issue at https://github.com/skleeschulte/php-base32/issues .
